@@ -2,7 +2,7 @@
 
 # 11.26 大埔宏福苑火災紀錄庫
 
-本存庫旨在整理及保存 2025 年 11 月 26 日大埔宏福苑火災的公開資料，包括新聞報道、影片紀錄、技術分析、承辦商資料、義工及社區支援資訊、官方回應，以及事件後續的相關資料。目標為建立一個公開、集中及可查證的紀錄庫，方便研究、媒體、工程界及關注事件的市民查閱。
+本存庫旨在整理及保存 2025 年 11 月 26 日大埔宏福苑火災的公開資料，包括新聞報道、影片紀錄、技術分析、承辦商資料、義工及社區支援資訊、官方回應，以及事件後續的相關資料。目標為建立一個公開、集中及可查證的紀錄庫，方便學術界、媒體、工程界及關注事件的市民查閱。
 
 ## 一、目的
 
@@ -55,6 +55,7 @@
 - 加入技術或政策分析  
 - 整理義工支援資訊  
 - 以 Pull Request 或 Issue 形式作出貢獻  
+  - 如你不熟悉 GitHub 的運作，我們建議你以 Issue 形式提議需更正的內容
 
 ### 提交文件時請提供以下資料 / Information to Include When Submitting Documents
 
@@ -218,6 +219,7 @@ Contributions are welcome from residents, researchers, and professionals:
 - Providing technical or policy analysis  
 - Consolidating volunteer or community support information  
 - Submitting Pull Requests or Issues to improve the repository  
+  - If you are unfamiliar with how GitHub works, we recommend you use Issues to suggest changes
 
 ### Information to Include When Submitting Documents
 
