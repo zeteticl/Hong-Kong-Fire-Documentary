@@ -1,5 +1,10 @@
 [English Version](#english-version)
 
+> **Mirror Site / 鏡像網站**: https://wfc-fire.collection.news/
+> 
+> This mirror is synchronized every 12 hours to ensure data accessibility in case of takedown or censorship.
+> 本鏡像網站每 12 小時同步一次，以確保在被移除或審查時仍可存取資料。
+
 # 11.26 大埔宏福苑火災紀錄庫
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hong-Kong-Emergency-Coordination-Hub.Hong-Kong-Fire-Documentary)
